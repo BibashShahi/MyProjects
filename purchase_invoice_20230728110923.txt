@@ -1,0 +1,7 @@
+Purchased Laptops:
+Name of Laptop: XPS
+Brand: Dell
+Date and Time: 2023-07-28 11:09:23.080249
+Price: $1976
+Quantity: 10
+Total Amount: $19760.00

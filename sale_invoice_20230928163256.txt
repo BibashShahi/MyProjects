@@ -1,0 +1,8 @@
+Customer Name: Bibash
+Sold Laptops:
+Name of Laptop: XPS
+Brand: Dell
+Date and Time: 2023-09-28 16:32:56.791649
+Price: $$1976.00
+Quantity: 2
+Total Amount: $3952.00
