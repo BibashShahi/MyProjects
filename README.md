@@ -1,2 +1,2 @@
 # MyProjects
-This my smart data project
+These are my projects
